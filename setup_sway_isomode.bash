@@ -32,4 +32,8 @@ fi
 echo "Removing the EOS Community Sway repo..."
 rm -rf sway
 
+# Enable the ly service
+echo "Enabling the ly service..."
+systemctl enable ly.service
+
 echo "Installation complete."
