@@ -9,8 +9,7 @@ egl-wayland
 file-roller
 foot
 fuzzel
-greetd
-greetd-regreet
+ly
 grim
 gtk-engine-murrine
 gtk-layer-shell
