@@ -32,8 +32,4 @@ fi
 echo "Removing the EOS Community Sway repo..."
 rm -rf sway
 
-# Enable the Greetd service
-echo "Enabling the Greetd service..."
-systemctl enable greetd.service
-
 echo "Installation complete."
